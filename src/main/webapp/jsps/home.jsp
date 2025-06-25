@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>Oranium Tech- Home Page</title>
 <link href="images/ORANIUM_LOGO.png" rel="icon">
 </head>
 </head>
